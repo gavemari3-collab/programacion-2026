@@ -1,27 +1,27 @@
-# 📘 Repositorio de Programación
+#  Repositorio de Programación
 
-## 👩‍💻 Estudiante
+##  Estudiante
 
-* Maria Gallegos
+* Maria Alejandra Gallegos Velez
 
-## 📚 Asignatura
+## Asignatura
 
 Desarrollo de aplicaciones web 
 
-## 🧾 Descripción
+##  Descripción
 
 Este repositorio contiene los trabajos realizados durante la asignatura.
 
-## 🧩 Contenido
+##  Contenido
 
 ### Unidad 1
 
 * Actividad 1: Creación de repositorio en GitHub
 
-## 🚀 Objetivo
+## Objetivo
 
 Aprender el uso de GitHub como herramienta de control de versiones.
 
-## 🔄 Historial
+## Historial
 
 * Primer commit: Creación del repositorio y README
